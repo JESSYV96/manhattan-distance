@@ -18,8 +18,8 @@ describe('one dimensional distance', () => {
 
   test("Distance beetween himseft should return 0", function () {
     const startPoint: Point = {
-      x: 1,
-      y: 0,
+      x: 0,
+      y: 1,
     }
 
     const expectedValue: number = 0
