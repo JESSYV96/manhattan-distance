@@ -1,9 +1,18 @@
-# js-kata-starter
+# Manhattan Distance
 
-Starter project for kata (Node, TypeScript, Jest)
+[Manhattan distance](https://en.wikipedia.org/wiki/Taxicab_geometry) is the distance between two points in a grid (like the grid-like street geography of the New York borough of Manhattan) calculated by only taking a vertical and/or horizontal path.
 
 ## Getting started
 
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+
+### Install dependencies  
+
+```
+npm i 
+```
+### Start developing
+```
+npm test
+```
+ 
+
